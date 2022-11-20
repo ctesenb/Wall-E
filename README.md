@@ -1,6 +1,6 @@
 # Wall-E
 
-Para el funcionamiente de establecer una conexion exitosa, se necesita tracker el adress del dispositivo con el nombre de este, para poder asignarlo y hacer un puente directo.
+Para establecer una conexion exitosa, se necesita trackear la direccion del dispositivo asi mismo obtener el nombre para poder hacer las asignaciones internas correspondientes y hacer un puente directo.
 
 ## Hyre
 
